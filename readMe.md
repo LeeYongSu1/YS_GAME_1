@@ -6,9 +6,10 @@ contact : dydtn8575@naver.com
 gitHub : https://github.com/LeeYongSu1
 
 ##Intoduction
-This is a simple RPG game. I mostly focues on the components below.
-#####If you want to download the whole project, please visit here. https://drive.google.com/drive/u/1/folders/1fw38acjuyixO2GnBiVd758XYthjCqTJZ
-#####In this git repository I only uploaded part of the project. If you want to see the codes, enter "/Assets/01.Scripts/..".
+This is a simple RPG game. I mostly focues on the components below.  
+If you want to download the whole project, please visit here. https://drive.google.com/drive/u/1/folders/1fw38acjuyixO2GnBiVd758XYthjCqTJZ
+In this git repository I only uploaded part of the project.  
+If you want to see the codes, enter "/Assets/01.Scripts/..".
 
 
 1. It can move as followed with keboard and mouse input.
