@@ -42,6 +42,5 @@ Use mouse click. The character will turn to it.
 Press keyboard '1~3'. </br>
 (The 3rd skill is going to be updated.)
 </br>
-</br>
-When you kill all of the enemies, you can see the Victory mark.
-When you are killed by the enemies, you can see the Defeat mark.
+When you kill all of the enemies, you can see the Victory mark. </br>
+When you are killed by the enemies, you can see the Defeat mark. </br>
