@@ -9,7 +9,7 @@ gitHub : https://github.com/LeeYongSu1 </br>
 This is a simple RPG game. I mostly focues on the components below.  
 1. It can move as followed with keboard and mouse input.
 2. After attacking, the character can smoothly move to the point where the mouse clicked.
-3. There are two attack motions. The basic one is when you click once. The other one is when you click agagin after basic attack in short time.
+3. There are two attack motions. The basic one is when you click once. </br> The other one is when you click agagin after basic attack in short time.
 4. When attack skill is exceuted, the attack object goes to the point mouse with physical energy.
 5. The enemy position is controlled by ***Navigation Agent***.
 6. The enemy is creataed by ***Object Pooling***.
