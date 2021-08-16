@@ -16,18 +16,18 @@ This is a simple RPG game. I mostly focues on the components below.
 7. UI designs. ( ex. showing time limit after using attack skils, starting and ending views)
 
 ##### Notice
-In this git repository I only uploaded part of the project.  
-But if you want to see the codes, enter "/Assets/01.Scripts/.." in this repository.
-If you want to download __the whole project__, please visit __here__. _<https://drive.google.com/drive/u/1/folders/1fw38acjuyixO2GnBiVd758XYthjCqTJZ>_
+In this git repository I only uploaded part of the project. </br>
+But if you want to see the codes, enter "/Assets/01.Scripts/.." in this repository. </br>
+If you want to download __the whole project__, please visit __here__. </br> <https://drive.google.com/drive/u/1/folders/1fw38acjuyixO2GnBiVd758XYthjCqTJZ>
 
 ## Develpoment Environment
 - Unity 2018
 - Visual Studio
 
 ## Screenshots
-<img src="/images/screenshot1.png" width="700"></img>
-<img src="/images/screenshot2.png" width="700"></img>
-<img src="/images/screenshot3.png" width="700"></img>
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot1.png" width="700"></img>
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot2.png" width="700"></img>
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot3.png" width="700"></img>
 
 ## How to run
 There is /build/Lee.exe in project folder. Double click it.
