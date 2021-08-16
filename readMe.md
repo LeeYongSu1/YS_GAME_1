@@ -1,9 +1,9 @@
 # YS Game1
-personal project for portfolio<br/>
-started from 9 Aug 2021
-Demo Video : https://youtu.be/3lAhOwVzNTM
-contact : dydtn8575@naver.com
-gitHub : https://github.com/LeeYongSu1
+personal project for portfolio <br/>
+started from 9 Aug 2021 </br>
+Demo Video : https://youtu.be/3lAhOwVzNTM </br>
+contact : dydtn8575@naver.com </br>
+gitHub : https://github.com/LeeYongSu1 </br>
 
 ## Intoduction
 This is a simple RPG game. I mostly focues on the components below.  
