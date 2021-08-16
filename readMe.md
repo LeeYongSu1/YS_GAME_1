@@ -25,6 +25,7 @@ If you want to download __the whole project__, please visit __here__. </br> <htt
 - Visual Studio
 
 ## Screenshots
+![Screenshot1](/images/screenshot1.PNG)
 <img src="./images/screenshot1.png" width="700">
 <img src="./images/screenshot2.png" width="700">
 <img src="./images/screenshot3.png" width="700">
