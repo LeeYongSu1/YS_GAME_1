@@ -25,9 +25,9 @@ If you want to download __the whole project__, please visit __here__. </br> <htt
 - Visual Studio
 
 ## Screenshots
-<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot1.png" width="700"></img>
-<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot2.png" width="700"></img>
-<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot3.png" width="700"></img>
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot1.png" width="700">
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot2.png" width="700">
+<img src="https://github.com/LeeYongSu1/YS_GAME_1/images/screenshot3.png" width="700">
 
 ## How to run
 There is /build/Lee.exe in project folder. Double click it.
